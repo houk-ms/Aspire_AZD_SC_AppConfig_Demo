@@ -1,2 +1,0 @@
-obj\Release\net8.0/Basket.cs \
-obj\Release\net8.0/BasketGrpc.cs: ../eShopLite.BasketService/Protos/basket.proto

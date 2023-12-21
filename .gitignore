@@ -1,2 +1,4 @@
 eShopLite_before/.azure
 eShopLite_after/.azure
+**/obj/
+**/bin/
