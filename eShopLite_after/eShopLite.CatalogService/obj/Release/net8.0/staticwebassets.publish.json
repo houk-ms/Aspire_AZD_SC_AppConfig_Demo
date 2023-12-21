@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "b7EpS7tMrPIBSoeiRHvn8s0kg7xiFhuR7JbHUVXyjr0=",
+  "Source": "eShopLite.CatalogService",
+  "BasePath": "_content/eShopLite.CatalogService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj",
+      "Version": 2,
+      "Source": "eShopLite.CatalogDb",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

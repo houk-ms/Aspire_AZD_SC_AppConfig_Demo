@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\eShopLite.CatalogService.props" />
+</Project>

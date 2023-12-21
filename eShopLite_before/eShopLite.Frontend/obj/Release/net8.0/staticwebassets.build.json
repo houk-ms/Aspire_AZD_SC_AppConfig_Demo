@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "O7+TNsqHr+zFL6H7c6ZTspYXnmK7KMLkewF7Txz6+iU=",
+  "Source": "eShopLite.Frontend",
+  "BasePath": "_content/eShopLite.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "eShopLite.Frontend\\wwwroot",
+      "Source": "eShopLite.Frontend",
+      "ContentRoot": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\wwwroot\\",
+      "BasePath": "_content/eShopLite.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\bundle\\eShopLite.Frontend.styles.css",
+      "SourceId": "eShopLite.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/eShopLite.Frontend",
+      "RelativePath": "eShopLite.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\bundle\\eShopLite.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\eShopLite.Frontend.bundle.scp.css",
+      "SourceId": "eShopLite.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/eShopLite.Frontend",
+      "RelativePath": "eShopLite.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\eShopLite.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\wwwroot\\site.css",
+      "SourceId": "eShopLite.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\houk\\Desktop\\msws\\aspire-samples\\samples\\eShopLite\\eShopLite.Frontend\\wwwroot\\",
+      "BasePath": "_content/eShopLite.Frontend",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}

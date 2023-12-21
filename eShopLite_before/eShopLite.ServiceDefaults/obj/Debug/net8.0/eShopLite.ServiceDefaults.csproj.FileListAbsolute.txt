@@ -1,0 +1,16 @@
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\bin\Debug\net8.0\eShopLite.ServiceDefaults.deps.json
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\bin\Debug\net8.0\eShopLite.ServiceDefaults.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\bin\Debug\net8.0\eShopLite.ServiceDefaults.pdb
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\bin\Debug\net8.0\ServiceDiscoveryClient.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\bin\Debug\net8.0\ServiceDiscoveryClient.pdb
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.AssemblyInfo.cs
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.sourcelink.json
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.csproj.CopyComplete
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\refint\eShopLite.ServiceDefaults.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\eShopLite.ServiceDefaults.pdb
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\eShopLite.ServiceDefaults\obj\Debug\net8.0\ref\eShopLite.ServiceDefaults.dll

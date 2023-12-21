@@ -1,0 +1,12 @@
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\bin\Release\net6.0\ServiceDiscoveryClient.deps.json
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\bin\Release\net6.0\ServiceDiscoveryClient.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\bin\Release\net6.0\ServiceDiscoveryClient.pdb
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.AssemblyInfoInputs.cache
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.AssemblyInfo.cs
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.csproj.CoreCompileInputs.cache
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.sourcelink.json
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\refint\ServiceDiscoveryClient.dll
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ServiceDiscoveryClient.pdb
+C:\Users\houk\Desktop\msws\aspire-samples\samples\eShopLite\ServiceDiscoveryClient\obj\Release\net6.0\ref\ServiceDiscoveryClient.dll

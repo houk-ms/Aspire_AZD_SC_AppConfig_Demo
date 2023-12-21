@@ -1,0 +1,595 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.AppHost\\eShopLite.AppHost.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.AppHost\\eShopLite.AppHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.AppHost\\eShopLite.AppHost.csproj",
+        "projectName": "eShopLite.AppHost",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.AppHost\\eShopLite.AppHost.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.AppHost\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\eShopLite.BasketService.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\eShopLite.BasketService.csproj"
+              },
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj"
+              },
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\eShopLite.CatalogService.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\eShopLite.CatalogService.csproj"
+              },
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\eShopLite.Frontend.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\eShopLite.Frontend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Hosting": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\eShopLite.BasketService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\eShopLite.BasketService.csproj",
+        "projectName": "eShopLite.BasketService",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\eShopLite.BasketService.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.BasketService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.StackExchange.Redis": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Grpc.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj",
+        "projectName": "eShopLite.CatalogDb",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\eShopLite.CatalogService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\eShopLite.CatalogService.csproj",
+        "projectName": "eShopLite.CatalogService",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\eShopLite.CatalogService.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.CatalogDb\\eShopLite.CatalogDb.csproj"
+              },
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\eShopLite.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\eShopLite.Frontend.csproj",
+        "projectName": "eShopLite.Frontend",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\eShopLite.Frontend.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.Frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery.Yarp": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Yarp.ReverseProxy": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj",
+        "projectName": "eShopLite.ServiceDefaults",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\eShopLite.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\eShopLite.ServiceDefaults\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj": {
+                "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.Uris": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Grpc.HealthCheck": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Azure.AppConfiguration.AspNetCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcNetClient": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj",
+        "projectName": "ServiceDiscoveryClient",
+        "projectPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj",
+        "packagesPath": "C:\\Users\\houk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\houk\\Desktop\\msws\\Aspire_AZD_SC_AppConfig_Demo\\eShopLite\\ServiceDiscoveryClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/One/_packaging/ServiceLinker/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
